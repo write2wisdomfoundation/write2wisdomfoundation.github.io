@@ -1,5 +1,5 @@
 ---
-title: 'Understand AI , ML , DL and Data Science - an Introduction'
+title: 'Simplifying AI , ML , DL and Data Science'
 image: '/services/noun_591323.png'  
 num : 5
 ---
