@@ -1,7 +1,7 @@
 ---
 title: 'Data Visualization in R'
 image: '/services/noun_591323.png'  
-num : 40
+num : 20
 ---
 
 Data Exploration and Data Visualization are the two most important tasks required for any kind of analysis. This is also an essential step for building models.        

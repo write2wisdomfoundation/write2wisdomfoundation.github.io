@@ -1,7 +1,7 @@
 ---
 title: 'Data Visualization in Python'
 image: '/services/noun_591323.png'  
-num : 30
+num : 10
 ---
 
 Data Exploration and Data Visualization are the two most important tasks required for any kind of analysis. This is also an essential step for building models.        
